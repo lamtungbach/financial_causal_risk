@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-first Financial Time Series Causal Discovery Thesis Project
 
 Bộ code này được viết lại theo hướng **khóa luận ngành Trí tuệ nhân tạo**: tài chính là miền ứng dụng, còn trọng tâm là mô hình học máy cho chuỗi thời gian.
