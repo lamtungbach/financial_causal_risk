@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scipy
+statsmodels
+scikit-learn
+torch
+networkx
+PyWavelets
+plotly
+streamlit
+pycwt
+# Optional for crawling/update data:
+yfinance
+vnstock
